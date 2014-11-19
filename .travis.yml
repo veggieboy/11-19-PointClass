@@ -9,9 +9,12 @@ before_script:
   - mkdir $HOME/artifacts
   - cd src
 
-script: javac -g ArraySums.java  
+script: 
+  - javac -g Point.java  
+  - javac -g PointMain.java  
+
 after_success: 
-  - java -cp . ArraySums > solution.txt
+  - java -cp . PointMain > solution.txt
   - diff output.txt solution.txt > diff.txt
   - cp output.txt $HOME/artifacts/output.txt
   - cp solution.txt $HOME/artifacts/solution-${TRAVIS_PULL_REQUEST}.txt
