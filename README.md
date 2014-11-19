@@ -1,6 +1,13 @@
 11-19-PointClass
 ================
 
+## Objectives
+- Understand how to represent an object's state as *fields*
+- Understand how to represent an object's behavior as instance *methods*
+- Be able to implement a class with *Accessors* and *Mutators*
+
+## Assignment
+
 Every class should be placed into its own file.  In the directory "src", you will find two files PointMain.java and Point.java. **DO NOT** modify PointMain.java. Use the file Point.java to create a class named Point. A Point object stores the (x, y) coordinates of a position in two-dimensional space as integers. **HINT** - you can find most of this code in the reading pp 505-517.
 
 - Create two integer fields to store the coordinates of each instance of Point
@@ -17,4 +24,6 @@ points is equal to the square root of the sum of the squares of the differences 
     - **setY**: takes one integer parameter, sets the value of the field y to the value of the parameter, returns void
     - **translate**: takes two integer parameters, adds the value of the first parameter to the value of the field x and adds the value of the second parameter to the value of the field y, returns void
 
+## Output
+Your output should be identical to [output.txt](./output.txt)
 
