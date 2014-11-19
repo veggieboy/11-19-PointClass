@@ -24,7 +24,7 @@ Every class should be placed into its own file.  In the directory "src", you wil
     - **translate**: takes two integer parameters, adds the value of the first parameter to the value of the field x and adds the value of the second parameter to the value of the field y, returns void
 
 ## Output
-Your output should be identical to [output.txt](./output.txt)...
+Your output when running *PointMain* should be identical to [output.txt](./output.txt)...
 ```
 p1 is (7, 2)
 distance from origin = 7.280109889280518
