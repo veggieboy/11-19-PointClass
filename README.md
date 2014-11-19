@@ -26,3 +26,5 @@ Every class should be placed into its own file.  In the directory "src", you wil
 ## Output
 Your output should be identical to [output.txt](./output.txt)
 
+## Reading
+Read Section 8.3 in Chapter 8 of Building Java Programs
