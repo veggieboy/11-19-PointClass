@@ -8,7 +8,7 @@
 
 ## Assignment
 
-Every class should be placed into its own file.  In the directory "src", you will find two files PointMain.java and Point.java. **DO NOT** modify PointMain.java. Use the file Point.java to create a class named Point. A Point object stores the (x, y) coordinates of a position in two-dimensional space as integers. **HINT** - you can find most of this code in the reading pp 505-517.
+Every class should be placed into its own file.  In the directory "src", you will find two files PointMain.java and Point.java. **DO NOT** modify PointMain.java. Use the file Point.java to create a class named Point. A Point object stores the (x, y) coordinates of a position in two-dimensional space as integers. **HINT** - you can find most of this code in the reading [pp 505-517](http://basisphoenix.azurewebsites.net/wp-content/uploads/2014/08/Building-Java-Programs-A-Back-to-Basics-Approach-2nd-Ed.pdf).
 
 - Create two integer fields to store the coordinates of each instance of Point
 - Create the following instance methods:
@@ -39,4 +39,4 @@ distance between p1 & p2 = 13.152946437965905
 ```
 
 ## Reading
-Read Section 8.3 in Chapter 8 of Building Java Programs
+Read Section 8.3 in Chapter 8 of [Building Java Programs](http://basisphoenix.azurewebsites.net/wp-content/uploads/2014/08/Building-Java-Programs-A-Back-to-Basics-Approach-2nd-Ed.pdf).
