@@ -41,5 +41,5 @@ distance between p1 & p2 = 13.152946437965905
 ## Reading
 Read Section 8.3 in Chapter 8 of [Building Java Programs](http://basisphoenix.azurewebsites.net/wp-content/uploads/2014/08/Building-Java-Programs-A-Back-to-Basics-Approach-2nd-Ed.pdf).
 
-## Previous - 11/10 ArrayLists
+## Previous Homework - 11/10 ArrayLists
 [View Solution](https://github.com/viperguynaz/11-10-ArrayLists/blob/c2343877a0292fab5b8551cf8464025fa4e6de1f/WordCount.java)
