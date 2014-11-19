@@ -1,7 +1,7 @@
 11-19-PointClass
 ================
 
-Every class should be placed into its own file.  In the directory "src", you will find two files PointMain.java and Point.java. **DO NOT** modify PointMain.java. Use the file Point.java to create a class named Point. A Point object stores the (x, y) coordinates of a position in two-dimensional space as integers.
+Every class should be placed into its own file.  In the directory "src", you will find two files PointMain.java and Point.java. **DO NOT** modify PointMain.java. Use the file Point.java to create a class named Point. A Point object stores the (x, y) coordinates of a position in two-dimensional space as integers. **HINT** - you can find most of this code in the reading pp 505-517.
 
 - Create two integer fields to store the coordinates of each instance of Point
 - Create the following instance methods:
