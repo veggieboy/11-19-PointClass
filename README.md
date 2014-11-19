@@ -24,7 +24,19 @@ Every class should be placed into its own file.  In the directory "src", you wil
     - **translate**: takes two integer parameters, adds the value of the first parameter to the value of the field x and adds the value of the second parameter to the value of the field y, returns void
 
 ## Output
-Your output should be identical to [output.txt](./output.txt)
+Your output should be identical to [output.txt](./output.txt)...
+```
+p1 is (7, 2)
+distance from origin = 7.280109889280518
+p2 is (4, 3)
+distance from origin = 5.0
+distance between p1 & p2 = 3.1622776601683795
+p1 is (18, 8)
+distance from origin = 19.697715603592208
+p2 is (5, 10)
+distance from origin = 11.180339887498949
+distance between p1 & p2 = 13.152946437965905
+```
 
 ## Reading
 Read Section 8.3 in Chapter 8 of Building Java Programs
